@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# PyCharm
+.idea/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Save files (user data)
+*.json
+saves/
+
+# OS files
+.DS_Store
+Thumbs.db
